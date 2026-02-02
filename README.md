@@ -68,6 +68,6 @@
     <img src="https://cdn.simpleicons.org/github/ffffff" height="28" alt="GitHub" />
   </a>
    <a href="https://www.linkedin.com/in/abdulmajeed-alsaati/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="28" alt="LinkedIn"/>
   </a>
 </p>

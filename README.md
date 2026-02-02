@@ -2,7 +2,7 @@
 
 **Cybersecurity & Full-Stack Developer**
 
-🔥 I’ve developed a strong passion for cybersecurity and full-stack development, especially building systems that combine coding, security, and networking. 🧠 I enjoy working across backend and full-stack development, with a focus on how systems behave under the hood rather than just surface-level features. 🔐 I’m particularly interested in system security, network behavior, authentication, and automation, and I like writing code that interacts with real systems and handles communication securely and efficiently. 🚀 I prefer learning by building and experimenting, whether that’s working with backend services, real-time communication, APIs, or low-level system behavior, always aiming to improve reliability, performance, and security.
+🔥 I’ve developed a strong passion for cybersecurity and full-stack development, especially building systems that combine coding, security, and networking. 🧠 I enjoy working across backend and [...]
 
 🌍 Based in Bahrain  
 📫 Reach me at: majeedghassan45@gmail.com
@@ -68,6 +68,6 @@
     <img src="https://cdn.simpleicons.org/github/ffffff" height="28" alt="GitHub" />
   </a>
    <a href="https://www.linkedin.com/in/abdulmajeed-alsaati/">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="28" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" alt="LinkedIn"/>
   </a>
 </p>

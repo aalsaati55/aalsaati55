@@ -57,9 +57,6 @@
   <a href="https://git-scm.com/doc">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28"/>
   </a>
-  <a href="https://docs.github.com/">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" height="28" style="filter: invert(1);"/>
-  </a>
   <a href="https://code.visualstudio.com/docs">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28"/>
   </a>
@@ -72,7 +69,6 @@
 </p>
 
 ### 🌐 Socials
-
 <p>
   <a href="https://github.com/aalsaati55" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" height="30" style="filter: invert(1);"/>

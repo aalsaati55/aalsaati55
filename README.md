@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="28"/>
+  <img src="https://cdn.simpleicons.org/rust/ffffff" height="28" alt="Rust"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28"/>
@@ -26,16 +26,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="28"/>
+  <img src="https://cdn.simpleicons.org/amazonaws/ffffff" height="28" alt="AWS"/>
 </p>
 
 
 ## 🌐 Socials
 <p>
   <a href="https://github.com/aalsaati55">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
-         height="28"
-         style="filter: invert(1);" />
+    <!-- white GitHub icon -->
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="28" alt="GitHub" />
   </a>
 </p>
-

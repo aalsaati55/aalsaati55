@@ -62,7 +62,11 @@
 ## 🌐 Socials
 <p>
   <a href="https://github.com/aalsaati55">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="28" alt="GitHub" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/000000">
+      <img src="https://cdn.simpleicons.org/github/000000" height="28" alt="GitHub" />
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/abdulmajeed-alsaati/">
